@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 📫  `How to reach me:` [janne.nylund@multi.fi](mailto:janne.nylund@multi.fi)
 
-![](name.png =100x)
+<img src="name.png" width="100" />
