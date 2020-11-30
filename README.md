@@ -1,6 +1,5 @@
 Hi there 👋
 ------
-#### My name is Janne Nylund
 <!--
 **janne-nylund/janne-nylund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +15,4 @@ Here are some ideas to get you started:
 
 # 
 
-<img src="name.png" width="100" />
+<img src="name.png" width="100" /> Janne Nylund
