@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 # 
 
 <img src="name.png" width="100" />
-<ins>Janne Nylund</ins>
