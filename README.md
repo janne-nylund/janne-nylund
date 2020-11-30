@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is Janne Nylund
+------
 <!--
 **janne-nylund/janne-nylund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
