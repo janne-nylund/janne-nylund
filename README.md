@@ -1,12 +1,5 @@
 ![WELCOME](https://github.com/janne-nylund/janne-nylund/blob/main/github.jpg "Janne Nylund")
 
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-a { text-decoration: none; }
-a:hover { text-decoration: underline; }
-</style>")
-
-
 👋 Hi there, my name is Janne Nylund
 ------
 <!--
