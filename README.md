@@ -1,7 +1,7 @@
 ![WELCOME](https://github.com/janne-nylund/janne-nylund/blob/main/github.jpg "Janne Nylund")
 
 
-Hi there, my name is Janne Nylund
+👋 Hi there, my name is Janne Nylund
 ------
 <!--
 **janne-nylund/janne-nylund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 🚀  `I’m currently learning JavaScript, React, Redux`
 
 📫  `How to reach me:`  [janne.nylund@multi.fi](mailto:janne.nylund@multi.fi)
-
-<button name="button" onclick="http://www.google.com">Click me</button>
 
 <img src="name.png" width="100" /> 
