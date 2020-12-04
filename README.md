@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 📫  `How to reach me:`  [janne.nylund@multi.fi](mailto:janne.nylund@multi.fi)
 
-💾  `Website:`  [www.jkin.io](http://www.jkin.io) 
+💾  `Website:`  [jkin.io](http://www.jkin.io) 
 
 <img src="name.png" width="100" /> 
