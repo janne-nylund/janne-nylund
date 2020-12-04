@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 🚀  `I’m currently learning JavaScript, React, Redux`
 
 📫  `How to reach me:`  [janne.nylund@multi.fi](mailto:janne.nylund@multi.fi)
+
 <button name="button" onclick="http://www.google.com">Click me</button>
 
 <img src="name.png" width="100" /> 
