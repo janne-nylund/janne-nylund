@@ -1,7 +1,7 @@
 ![WELCOME](https://github.com/janne-nylund/janne-nylund/blob/main/github.jpg "Janne Nylund")
 
-👋 `Hi there, my name is Janne Nylund`
-------
+## 👋 `Hi there, my name is Janne Nylund`
+
 <!--
 **janne-nylund/janne-nylund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
