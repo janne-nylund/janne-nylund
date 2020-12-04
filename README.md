@@ -1,14 +1,13 @@
 ![WELCOME](https://github.com/janne-nylund/janne-nylund/blob/main/github.jpg "Janne Nylund")
 
 
-Hi there 👋
+Hi there, my name is Janne Nylund
 ------
 <!--
 **janne-nylund/janne-nylund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-##### My name is Janne Nylund
 🏫  `I'm a student at Centria University of Applied Sciences`
 
 🔨  `I’m currently working on Codecademy's Front-End Engineer Career Path`
