@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-🏫  `I'm a student at Centria University of Applied Sciences { R2SE }`
+🏫  `I'm a student at Centria University of Applied Sciences { Bachelor of Engineering, Information Technology }`
 
 🔨  `I’m currently working on Codecademy's Front-End Engineer Career Path`
 
