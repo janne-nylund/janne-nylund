@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 🔨  `I’m currently working on Codecademy's Front-End Engineer Career Path`
 
-🚀  `I’m currently learning:
+🚀  `I’m currently learning:`
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge)
