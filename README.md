@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 -->
 🏫  `I'm a student at Centria University of Applied Sciences { Bachelor of Engineering, Information Technology }`
 
-🔨  `I’m currently Learning `[Remix](https://remix.run/)
-
 🚀  `I’m currently learning:`
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
